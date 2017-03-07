@@ -1,0 +1,12 @@
+﻿#target
+
+*.class
+~*.*
+*.bak
+*.tmp
+*.log
+
+/*/andmore/.idea
+
+#myself
+test.txt
